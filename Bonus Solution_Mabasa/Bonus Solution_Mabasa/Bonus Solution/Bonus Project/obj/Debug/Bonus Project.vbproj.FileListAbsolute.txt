@@ -1,0 +1,12 @@
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk3 pt4\Bonus Solution_Mabasa\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe.config
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk3 pt4\Bonus Solution_Mabasa\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk3 pt4\Bonus Solution_Mabasa\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.pdb
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk3 pt4\Bonus Solution_Mabasa\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.xml
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk3 pt4\Bonus Solution_Mabasa\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.vbprojAssemblyReference.cache
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk3 pt4\Bonus Solution_Mabasa\Bonus Solution\Bonus Project\obj\Debug\Bonus_Project.frmMain.resources
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk3 pt4\Bonus Solution_Mabasa\Bonus Solution\Bonus Project\obj\Debug\Bonus_Project.Resources.resources
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk3 pt4\Bonus Solution_Mabasa\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.vbproj.GenerateResource.cache
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk3 pt4\Bonus Solution_Mabasa\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.vbproj.CoreCompileInputs.cache
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk3 pt4\Bonus Solution_Mabasa\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.exe
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk3 pt4\Bonus Solution_Mabasa\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.xml
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk3 pt4\Bonus Solution_Mabasa\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.pdb
